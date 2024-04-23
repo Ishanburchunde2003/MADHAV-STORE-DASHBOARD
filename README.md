@@ -19,5 +19,5 @@ The Power BI dashboard is expected to deliver actionable insights that enable Ma
 - Evaluate the effectiveness of marketing campaigns and promotional activities.
 - Forecast future sales and set strategic targets to drive business growth.
 
-
+### BACKGROUND : ![dark-gradient](https://github.com/Shradhatakawane/PATIENT-HISTORY-DASHBOARD/assets/154678733/60f8c801-dd1d-4d87-a269-7d5edce37200)
 
